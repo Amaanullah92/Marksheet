@@ -1,0 +1,19 @@
+{
+  "name": "marksheet_by_amaan",
+  "version": "1.2.2",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "marksheet": "^1.0.0"
+  }
+}
